@@ -1,2 +1,2 @@
-# Sudoku-Web-App:
+# Sudoku-Web-App
 
