@@ -19,5 +19,5 @@ In this Project, I have designed a Sudoku-Web-App using JavaScript, html, and CS
 ## Solve Puzzle
 
 ![App 2](https://github.com/priyalbhatewara123/sudoku-web-app/blob/master/app_preview/solve_puzzle.PNG)
-
-### Author: Rajeev Kumar
+##
+#### Author: Rajeev Kumar
